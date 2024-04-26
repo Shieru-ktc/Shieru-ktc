@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm studying IT-related things at Japanese college.
+This account will be abandoned when I graduated (or dropout) school.
+
 <!--
 **Shieru-ktc/Shieru-ktc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
