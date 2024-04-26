@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm studying IT-related things at Japanese college.
+I'm studying IT-related things at Japanese college.  
 This account will be abandoned when I graduated (or dropout) school.
 
 <!--
